@@ -40,8 +40,11 @@
   margin: 20px;
 }
 
-div.container {
-  border: 5px solid #555;
+#grid{
+  
+	display:flex;
+	flex-direction:row;
+	
 }
 
 .flex {
